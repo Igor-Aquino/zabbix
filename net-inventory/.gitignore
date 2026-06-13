@@ -1,0 +1,7 @@
+# Não versionar inventários gerados (podem conter dados reais da rede)
+inventario.csv
+inventario.json
+*.local.csv
+*.local.json
+__pycache__/
+*.pyc
