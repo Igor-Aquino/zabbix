@@ -1,6 +1,6 @@
 # Coleta de VLAN e Subnet via Zabbix (personalização)
 
-Guia prático e direto para descobrir e monitorar **VLANs** e **subnets** de equipamentos de rede (switches/roteadores) no **Zabbix**, usando recursos de personalização: itens SNMP, **Low-Level Discovery (LLD)** e **scripts externos**.
+Monitorar **VLANs** e **subnets** de equipamentos de rede (switches/roteadores) no **Zabbix**, usando recursos de personalização: itens SNMP, **Low-Level Discovery (LLD)** e **scripts externos**.
 
 > Testado com **Zabbix 7.0 LTS**. Funciona também no 6.0 LTS e, com pequenos ajustes, no 8.0.
 
